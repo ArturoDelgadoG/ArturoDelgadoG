@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArturoDelgadoG
-- 👀 I’m interested in ... Math, Data Science and Data analytics
-- 🌱 I’m currently learning ... Data Science and Data analytics
-- 💞️ I’m looking to collaborate on ... Data Analyst or Data Science company 
+- 👀 I’m interested in ... Data Engineering, Big Data, Distributed Processing (Spark) and Lakehouse Architectures.
+- 🌱 I’m currently learning ... Databricks
+- 💞️ I’m looking to collaborate on ... large-scale data processing and modern data engineering.
 - 📫 How to reach me ... email: ja.delgadogranados@gmail.com
 
 <!---
